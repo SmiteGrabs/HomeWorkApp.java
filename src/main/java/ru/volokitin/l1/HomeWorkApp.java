@@ -54,6 +54,8 @@ public class HomeWorkApp {
             System.out.println("a<b");
         }
     }
+
+    // Комментарий добавленный просто для изменения файла
 }
 
 
